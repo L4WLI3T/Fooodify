@@ -25,7 +25,7 @@ def upload():
         # Make prediction
         result = load_image(file_path)
         result = result.title()
-        d = {"Ice Cream":"🍨",'Fried Rice':"🍚","Pizza":"🍕","Sandwich":"🥪","Samosa":"🌭"}
+   
         
         print(result)
         os.remove(file_path)
