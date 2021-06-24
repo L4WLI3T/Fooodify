@@ -6,8 +6,11 @@ A problem that many non-native people face when they visit India is food recogni
 ![Capture](https://user-images.githubusercontent.com/48093400/123222157-45e67180-d4ed-11eb-9f08-d2088865ee69.JPG)
 
 ### Metrics for model evaluation
-Precision = TP/(TP+FP)
-Recall = TP/(TP+FN)
-F1 = 2*(Precision*Recall)/(Precision+Recall)
+Precision = TP/(TP+FP) <br/>
+Recall = TP/(TP+FN) <br/>
+F1 = 2*(Precision*Recall)/(Precision+Recall)<br/>
+<br/>
 ![m1](https://user-images.githubusercontent.com/48093400/123222908-08361880-d4ee-11eb-83f9-315c267caf55.JPG)
+<br/><br/>
+Confusion Matrix describes the performance of a classification model (or "classifier") on a set of test data for which the true values are known. <br/><br/>
 ![m2](https://user-images.githubusercontent.com/48093400/123222941-0f5d2680-d4ee-11eb-9b3a-992d30b7bc4b.JPG)
