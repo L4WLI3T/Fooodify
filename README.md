@@ -4,3 +4,10 @@ A problem that many non-native people face when they visit India is food recogni
 
 ## Model 
 ![Capture](https://user-images.githubusercontent.com/48093400/123222157-45e67180-d4ed-11eb-9f08-d2088865ee69.JPG)
+
+### Metrics for model evaluation
+Precision = TP/(TP+FP)
+Recall = TP/(TP+FN)
+F1 = 2*(Precision*Recall)/(Precision+Recall)
+![m1](https://user-images.githubusercontent.com/48093400/123222908-08361880-d4ee-11eb-83f9-315c267caf55.JPG)
+![m2](https://user-images.githubusercontent.com/48093400/123222941-0f5d2680-d4ee-11eb-9b3a-992d30b7bc4b.JPG)
